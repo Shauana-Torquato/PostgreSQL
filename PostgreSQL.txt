@@ -1,0 +1,15 @@
+PostgreSQL
+
+O que é o PostgreSQL - é um sistema gerenciador de banco de dados (SGBD) relacional que permite armazenar, consultar e manipular dados de várias formas
+
+	é um sistema onde poderemos criar vários bancos de dados, e em cada banco de dados são criadas as tabelas
+
+	ao se falar em SGBD relacional, nos referimos ao tipo do banco de dados, no caso, sendo relacional, teremos uma tabela passível de relacionar-se umas com as outras
+
+port 5432
+
+linha de comando
+
+\l - listar
+create database nome - cria database com aquele nome
+
